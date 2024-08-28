@@ -55,12 +55,12 @@ const enableboxes = () => {
     }
 }
 
-const showwinner = (winner) => {
+/*const showwinner = (winner) => {
     msg.innerText = `Congratulations,winner is ${winner}`
     msg.style.backgroundcolor=green;
     msgcontainer.classList.remove("hide");
     disableBoxes();
-};
+};*/
 
 const checkWinner = () => {
     for (let pattern of winPatterns) {
