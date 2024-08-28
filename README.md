@@ -1,0 +1,1 @@
+This repo includes two classic and timeless games: Stone Paper Scissors and Tic Tac Toe. Both games are designed to be fun, interactive, and easy to play, whether you're looking to pass some time or challenge your friends.
